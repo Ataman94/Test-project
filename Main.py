@@ -1,3 +1,3 @@
 summa = 0
-summa += 1
+summa += 2
 print(summa)
